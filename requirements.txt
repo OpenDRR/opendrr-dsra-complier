@@ -1,6 +1,6 @@
 elasticsearch==7.6.0
 elasticsearch-dsl==7.1.0
-jenkspy==0.1.5
+jenkspy==0.3.2
 numpy==1.18.3
 pandas==1.0.3
 python-dateutil==2.8.1
