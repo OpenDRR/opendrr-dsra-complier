@@ -6,5 +6,5 @@ pandas==1.0.3
 python-dateutil==2.8.1
 pytz==2020.1
 six==1.14.0
-urllib3==1.26.5
+urllib3==1.26.7
 openpyxl==3.0.7
